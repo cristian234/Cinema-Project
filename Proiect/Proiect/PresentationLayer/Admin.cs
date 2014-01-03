@@ -29,5 +29,10 @@ namespace Proiect
             time_label.Text = dt.ToString();
         }
 
+        private void button10_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
     }
 }

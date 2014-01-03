@@ -17,3 +17,4 @@ C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proi
 C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
 C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.Admin.resources
 C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.Start.resources
+C:\Users\Mihaii\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.Admin.resources
