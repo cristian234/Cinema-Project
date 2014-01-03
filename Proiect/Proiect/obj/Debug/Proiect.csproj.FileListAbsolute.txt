@@ -10,3 +10,10 @@ C:\Users\Mihaii\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiec
 C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\bin\Debug\Proiect.exe.config
 C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.exe
 C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
+C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.Admin.resources
+C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.Start.resources

@@ -17,10 +17,12 @@ namespace Proiect
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            MessageBox.Show("SOON ! private :)");
+            Admin adm = new Admin();
+            adm.Show();
         }
+
 
     }
 }
