@@ -18,3 +18,15 @@ C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proi
 C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.Admin.resources
 C:\Users\Cristian\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.Start.resources
 C:\Users\Mihaii\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.Admin.resources
+C:\Users\Mihaii\Desktop\Project Baze de date\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Mihaii\Desktop\Project Baze de date\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Mihaii\Desktop\Project Baze de date\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Mihaii\Desktop\Project Baze de date\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Mihaii\Desktop\Project Baze de date\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Mihaii\Desktop\Project Baze de date\Proiect\Proiect\obj\Debug\Proiect.csprojResolveAssemblyReference.cache
+C:\Users\Mihaii\Desktop\Project Baze de date\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Mihaii\Desktop\Project Baze de date\Proiect\Proiect\obj\Debug\Proiect.Admin.resources
+C:\Users\Mihaii\Desktop\Project Baze de date\Proiect\Proiect\obj\Debug\Proiect.Start.resources
+C:\Users\Mihaii\Desktop\Project Baze de date\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.Cache
+C:\Users\Mihaii\Desktop\Project Baze de date\Proiect\Proiect\obj\Debug\Proiect.login_admin.resources
+C:\Users\Mihaii\Documents\GitHub\Cinema-Project\Proiect\Proiect\obj\Debug\Proiect.login_admin.resources

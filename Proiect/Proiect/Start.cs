@@ -19,8 +19,11 @@ namespace Proiect
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Admin adm = new Admin();
-            adm.Show();
+            login_admin fab = new login_admin();
+            fab.Show();
+
+
+                    
         }
 
         private void button2_Click(object sender, EventArgs e)

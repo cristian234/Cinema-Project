@@ -33,7 +33,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Reflection.Context" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,6 +47,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BusinessLayer\BusinessInterface.cs" />
+    <Compile Include="BusinessLayer\UserBUS.cs" />
+    <Compile Include="DataLayer\DataLayerInterface.cs" />
+    <Compile Include="DataLayer\UserDAO.cs" />
+    <Compile Include="dbConnection.cs" />
+    <Compile Include="PresentationLayer\login_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\login_admin.Designer.cs">
+      <DependentUpon>login_admin.cs</DependentUpon>
+    </Compile>
     <Compile Include="Start.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,6 +72,9 @@
     <Compile Include="PresentationLayer\Admin.Designer.cs">
       <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="PresentationLayer\login_admin.resx">
+      <DependentUpon>login_admin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -90,6 +107,7 @@
   <ItemGroup>
     <None Include="PresentationLayer\user-admin-1.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
