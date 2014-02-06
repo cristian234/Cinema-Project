@@ -15,7 +15,7 @@ namespace Proiect
     {
         // functii 
         int CheckLoginBus(string user, string pass);
-      
+        DataTable FilmeZi(int zi);
  
     }
 }

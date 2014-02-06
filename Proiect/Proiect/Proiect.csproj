@@ -52,6 +52,12 @@
     <Compile Include="DataLayer\DataLayerInterface.cs" />
     <Compile Include="DataLayer\UserDAO.cs" />
     <Compile Include="dbConnection.cs" />
+    <Compile Include="PresentationLayer\FilmeZi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\FilmeZi.Designer.cs">
+      <DependentUpon>FilmeZi.cs</DependentUpon>
+    </Compile>
     <Compile Include="PresentationLayer\login_admin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,6 +78,9 @@
     <Compile Include="PresentationLayer\Admin.Designer.cs">
       <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="PresentationLayer\FilmeZi.resx">
+      <DependentUpon>FilmeZi.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PresentationLayer\login_admin.resx">
       <DependentUpon>login_admin.cs</DependentUpon>
     </EmbeddedResource>

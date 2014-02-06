@@ -15,7 +15,7 @@ namespace Proiect
 
   
         DataTable checkLoginData(string user, string pass);
-       
+        DataTable FilmeZi(int zi);
     
     }
 }

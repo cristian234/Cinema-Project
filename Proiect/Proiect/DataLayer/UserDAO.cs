@@ -26,7 +26,7 @@ namespace Proiect
         {
             conn = new dbConnection();
             connection1 = new SqlConnection(ConfigurationManager.ConnectionStrings["db"].ConnectionString);
-
+           
         }
 
 
@@ -37,6 +37,15 @@ namespace Proiect
 
             return conn.executeSelectQuery("SELECT Username,Password FROM dbo.USERS");// IMI RETURNEAZA IN BUSINESS 
 
+        }
+
+        public DataTable FilmeZi(int zi)
+        {
+            string querry = string.Format("SELECT NumeFilm, DurataFilm, DataLansare, InformatiiFilm, Pret, DataInceperii, DataTerminarii, Zi FROM dbo.ListInfoFilmZi WHERE (Zi = @Zi)");
+            SqlParameter[] param = new SqlParameter[1];
+            param[0] = new SqlParameter("@Zi", SqlDbType.Int);
+            param[0].Value = zi;
+            return conn.executeSelectQuery(querry, param);
         }
 
      

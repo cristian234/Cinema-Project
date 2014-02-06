@@ -40,6 +40,10 @@ namespace Proiect
             return 0;
         }
 
+        public DataTable FilmeZi(int zi)
+        {
+            return _userDAO.FilmeZi(zi);
+        }
       
 
     }
